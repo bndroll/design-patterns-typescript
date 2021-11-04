@@ -1,0 +1,10 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bounderoll <bounderoll.23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
