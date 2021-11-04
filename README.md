@@ -6,3 +6,12 @@
 * Factory
 * Prototype
 * Singleton
+
+### Structural
+* Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Flyweight
+* Proxy
