@@ -25,5 +25,5 @@
 * Observer
 * State
 * Strategy
-* Template Method
+* Template 
 * Visitor
